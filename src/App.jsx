@@ -1,7 +1,7 @@
 import React from 'react';
 import All from './Header/All';
 import Team from '../Pages/Team';
-import Contact from '../Pages/contact';
+import Contact from '../Pages/Contact';
 import Portfolio from '../Pages/Portfolio';
 import Services from '../Pages/Services';
 import { BrowserRouter, Routes, Route} from 'react-router-dom';
