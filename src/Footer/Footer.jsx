@@ -11,7 +11,7 @@ const Footer = () => {
         <a href='#'>
           <img className="w-[117px]" src={logo} alt="" />
         </a>
-        <ul className="ml-[24%] lg:ml-[320px] text-[14px] md:text-[18px]  font-medium text-[#FFFFFF73] dark:text-[#00000073] space-y-2 self-center" >
+        <ul className="ml-[24%] lg:ml-[320px] text-[14px] md:text-[18px]  font-medium text-[#00000] dark:text-[#00000073] space-y-2 self-center" >
           <li className="text-[18px] md:text-[24px] text-[#000000]">
             Page
           </li>
