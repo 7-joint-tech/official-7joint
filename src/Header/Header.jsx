@@ -5,11 +5,12 @@ import Button from "../Button";
 
 
 
+
 const header = () => {
     const websiteName = "7jointt ech";
     const letter = Array.from(websiteName);
     return (
-        <m.header className="overflow-hidden relative bg-main mb-12">
+        <m.header className="overflow-hidden relative bg-main mb-12 bg-cover bg-center">
              <div className="flex flex-col items-center justify-center text-center h-screen 2xl:h-auto 2xl:py-[10em]">
                  {/* Logo header image
                 <m.div className="relative opacity-0"  animate={{ opacity: [0, 1], y: [10, 0] }}>

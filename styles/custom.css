@@ -102,6 +102,13 @@ box-shadow: 0px 5px 20px 5px rgba(0, 0, 0, 0.19);
  }
 
 
+ header {
+  background-image:  url('../public/98.jpg');;
+  background-position: center;
+  background-size: cover;
+ }
+
+
  
  
 
