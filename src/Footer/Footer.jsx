@@ -6,7 +6,7 @@ import {Link} from 'react-router-dom';
 
 const Footer = () => {
   return (
-    <footer className="relative top-0 left-0 w-full dark:bg-[#DADADA] min-h-[200px] mt-[10rem]">
+    <footer className="relative top-0 left-0 w-full bg-[#DADADA] min-h-[200px] mt-[10rem]">
         <div className="flex justify-between items-center w-[90%] mx-auto pt-10">
         <a href='#'>
           <img className="w-[117px]" src={logo} alt="" />
