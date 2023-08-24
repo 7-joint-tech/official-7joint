@@ -1,7 +1,7 @@
 
 [
   {
-    "image": "../public/bash.jpg",
+    "image": "/bash.jpg",
     "name": "Habibullah",
     "role": "Full Stack Developer",
     "linkedin": "https://www.linkedin.com/johndoe",
