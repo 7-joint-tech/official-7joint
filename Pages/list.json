@@ -9,7 +9,7 @@
     "whatsapp": "https://wa.me/1234567890"
   },
   {
-    "image": "../public/bash.jpg",
+    "image": "/bash.jpg",
     "name": "zbash",
     "role": "Digital Marketer",
     "linkedin": "https://www.linkedin.com/johndoe",
@@ -17,7 +17,7 @@
     "whatsapp": "https://wa.me/1234567890"
   },
   {
-    "image": "../public/rid.jpg",
+    "image": "/rid.jpg",
     "name": "Ridwan",
     "role": "Graphics/UI/UX",
     "linkedin": "https://www.linkedin.com/johndoe",
@@ -25,7 +25,7 @@
     "whatsapp": "https://wa.me/1234567890"
   },
   {
-    "image": "../public/code2.jpg",
+    "image": "/code2.jpg",
     "name": "Codeknight",
     "role": "Frontend Developer",
     "linkedin": "https://www.linkedin.com/johndoe",
